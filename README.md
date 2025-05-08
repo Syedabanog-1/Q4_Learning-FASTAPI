@@ -2,8 +2,10 @@
 # TASK2 Installing uv and fastapi AND Creating Application using fastapi
 Following are ss about working upon given TASK2
 
-![Screenshot 2025-05-08 094914](https://github.com/user-attachments/assets/123136e4-f660-4ef8-b65f-8822b4206e5b)
-![Screenshot 2025-05-08 094350](https://github.com/user-attachments/assets/eb9f730a-5ddc-43dd-b0ca-74873975d042)
-![Screenshot 2025-05-08 094253](https://github.com/user-attachments/assets/925ea98b-d430-40c3-9731-db6afe64f504)
-![Screenshot 2025-05-08 091805](https://github.com/user-attachments/assets/e3c96154-bdbf-4ef9-b109-4c36afce8403)
-# Q4_Learning-FASTAPI
+
+![items-parameterValues](https://github.com/user-attachments/assets/62b6f2da-128c-4404-a387-896288ba4bfb)
+![parameterValues](https://github.com/user-attachments/assets/a56f4f82-8752-4714-8d05-c69b33fead99)
+![Hello World](https://github.com/user-attachments/assets/cf086e4a-6cf6-45c6-bc61-f5de9a981dba)
+![startupComplete-GET](https://github.com/user-attachments/assets/a17928a2-4703-484b-b9e9-b78b8cdc4b58)
+![Host](https://github.com/user-attachments/assets/8d2f063a-471b-4139-b43b-af398c565b50)
+
